@@ -1,6 +1,8 @@
 # 🌿 PlantVillage Disease Classification with Transfer Learning
 
-This project leverages **transfer learning** using various state-of-the-art CNN architectures to classify plant diseases from the [PlantVillage dataset](https://www.kaggle.com/datasets/emmarex/plantdisease). It supports different **image preprocessing techniques** (Color, Grayscale, and Segmented) and **training/validation splits** (e.g., 70-30, 60-40), providing a comprehensive benchmarking pipeline.
+This project leverages **transfer learning** using various state-of-the-art CNN architectures to classify plant diseases from the [PlantVillage dataset](https://www.kaggle.com/datasets/emmarex/plantdisease). It supports different **image preprocessing techniques** (Color, Grayscale, and Segmented) and **training/validation splits** (e.g., 70-30, 60-40), providing a comprehensive benchmarking pipeline
+
+![tranformations](/transformations.png)
 
 Authors:
  - [Ľubomír Švec](mailto:lubomir.svec@student.tuke.sk)
