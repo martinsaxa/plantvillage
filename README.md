@@ -2,6 +2,10 @@
 
 This project leverages **transfer learning** using various state-of-the-art CNN architectures to classify plant diseases from the [PlantVillage dataset](https://www.kaggle.com/datasets/emmarex/plantdisease). It supports different **image preprocessing techniques** (Color, Grayscale, and Segmented) and **training/validation splits** (e.g., 70-30, 60-40), providing a comprehensive benchmarking pipeline.
 
+Authors:
+ - [Ľubomír Švec](mailto:lubomir.svec@student.tuke.sk)
+ - [Martin Saxa](mailto:martin.saxa@student.tuke.sk)
+
 ## 🚀 Models Used
 The following pre-trained models from `tensorflow.keras.applications` are supported:
 - InceptionV3
