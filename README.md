@@ -24,6 +24,7 @@ These models are fine-tuned using features extracted from the PlantVillage image
 - **PlantVillage** from `tensorflow_datasets`.
 - Automatically downloaded and preprocessed.
 - Configurable splits:
+  - `80-20`: 80% train / 20% test
   - `70-30`: 70% train / 30% test
   - `60-40`: 60% train / 40% test
 

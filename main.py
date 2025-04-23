@@ -29,7 +29,7 @@ image_types = ['Color', 'Grayscale', 'Segmented']
 
 # Define dataset splits and corresponding epochs
 splits = {
-    ''
+    '80-20': {'train': 'train[:80%]', 'test': 'train[80%:]', 'epochs': 15},
     '70-30': {'train': 'train[:70%]', 'test': 'train[70%:]', 'epochs': 15},
     '60-40': {'train': 'train[:60%]', 'test': 'train[60%:]', 'epochs': 15}
 }
